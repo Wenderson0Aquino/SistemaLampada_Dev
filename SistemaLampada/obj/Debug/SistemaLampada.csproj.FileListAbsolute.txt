@@ -1,0 +1,15 @@
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\bin\Debug\SistemaLampada.exe.config
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\bin\Debug\SistemaLampada.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\bin\Debug\SistemaLampada.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\obj\Debug\SistemaLampada.csproj.AssemblyReference.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\obj\Debug\SistemaLampada.csproj.SuggestedBindingRedirects.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\obj\Debug\SistemaLampada.csproj.CoreCompileInputs.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\obj\Debug\SistemaLampada.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\obj\Debug\SistemaLampada.pdb
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\obj\Debug\SistemaLampada.csproj.AssemblyReference.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\obj\Debug\SistemaLampada.csproj.CoreCompileInputs.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\obj\Debug\SistemaLampada.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\obj\Debug\SistemaLampada.pdb
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\bin\Debug\SistemaLampada.exe.config
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\bin\Debug\SistemaLampada.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaLampada_Dev\SistemaLampada\bin\Debug\SistemaLampada.pdb
